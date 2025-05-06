@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=todaisy&theme=radical)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=todaisy&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=todaisy&theme=radical)
