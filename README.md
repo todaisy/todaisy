@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=todaisy)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=todaisy&theme=radical)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=todaisy&theme=radical)
